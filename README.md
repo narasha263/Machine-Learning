@@ -1,5 +1,5 @@
 # MACHINE LEARNING CASE STUDY WORK..RAT
-Using the given dataset on insurance attached, carry out
+
 1. Exploratory data analysis (EDA)
 
 2. Use Linear regression to train your data on and get evaluation aspects in terms of MAE, RMSE, and MSE.
